@@ -230,7 +230,7 @@
     color: #00474B;
  }
  .form5,.inp5{
-   
+    width: 146.631px;
      height: 48px;
      border-radius: 5px;
      background: #00474B;
@@ -239,7 +239,7 @@
      background: #F3F9FA;
  }
  .inp5{
-
+    padding-left: 19px;
     font-size: 24px;
     color: #547878;
     padding-right: 13px;
