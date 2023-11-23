@@ -98,4 +98,4 @@ costum.addEventListener("input", function () {
     calculateboth();
 })
  
-
+// tengo
