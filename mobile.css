@@ -19,7 +19,13 @@
  svg path {
      fill: #3D6666;
  }
-
+.bill{
+ color: #5E7A7D;
+    font-family: 'Space Mono';
+    font-size: 16px;
+    font-weight: 700;
+    width: 47px;
+}
  header {
      margin-top: 50px;
      display: flex;
