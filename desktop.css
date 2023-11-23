@@ -57,6 +57,10 @@
         width: 380px;
         padding-left: 273px;
     }
+    .inp5{
+        width: 117px;
+        padding-left: 0;
+    }
     .inp2:hover{
         cursor: pointer;
        border: 2px solid #E17052;
@@ -133,10 +137,6 @@
     .txt{
         position: relative;
         top: -15px;
-    }
-    .form5{
-        width:117px;
-        height:48px;
     }
     .border{
         border-radius: 5px;
